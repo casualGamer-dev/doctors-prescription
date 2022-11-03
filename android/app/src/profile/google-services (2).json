@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "532887222794",
+    "project_id": "hand-10cf1",
+    "storage_bucket": "hand-10cf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532887222794:android:01c6fd6149298de20a7df3",
+        "android_client_info": {
+          "package_name": "com.toivi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532887222794-aujdcsh6a8u2dtsi7beeei1jnvhko7lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1hMX9Uu00GwtVCJfWp3qSOmtDRscGZQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532887222794-aujdcsh6a8u2dtsi7beeei1jnvhko7lj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

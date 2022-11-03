@@ -1,11 +1,11 @@
 {
-    "name": "flutter_doctorsprescription",
-    "short_name": "flutter_doctorsprescription",
+    "name": "Prescription",
+    "short_name": "ai_doctor_prescription",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "an ai handwriting recognition app",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
