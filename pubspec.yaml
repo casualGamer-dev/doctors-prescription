@@ -1,3 +1,6 @@
+name: doctors_prescription
+description: A new Flutter application.
+
 version: 1.0.0+1
 
 environment:
