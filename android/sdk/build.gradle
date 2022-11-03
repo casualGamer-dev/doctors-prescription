@@ -105,12 +105,6 @@ android {
         versionCode openCVersionCode
         versionName openCVersionName
 
-        externalNativeBuild {
-            cmake {
-                arguments "-DANDROID_STL=c++_shared"
-                targets "opencv_jni_shared"
-            }
-        }
     }
 
     buildTypes {
@@ -139,12 +133,6 @@ android {
             aidl.srcDirs = ['java/src']
             res.srcDirs = ['java/res']
             manifest.srcFile 'java/AndroidManifest.xml'
-        }
-    }
-
-    externalNativeBuild {
-        cmake {
-            path (project.projectDir.toString() + '/libcxx_helper/CMakeLists.txt')
         }
     }
 }
